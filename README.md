@@ -1,4 +1,4 @@
-# COVID-19 Effect in Quebec: Regression Analysis
+# Effect of Key Events on COVID-19 new cases in Quebec: A Regression Analysis
 
 ### Introduction
 
