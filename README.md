@@ -26,15 +26,15 @@ For each event, we designed a regression model to estimate the effect on COVID-1
 
 We obtained statistically significant results for all three events, indicating that they had a discernible impact on COVID-19 measures in Quebec. Our analysis revealed the following key findings:
 
-- 20/3/2020 Lockdown: The lockdown implementation resulted in a significant reduction in COVID-19 cases and hospitalizations, indicating its effectiveness in controlling the spread of the virus.
+- 20/3/2020 Lockdown: The graphs and results suggest that the first lockdown implemented by the government of Quebec on 20/3/2020 had a minimal impact on the number of new cases. It seems that on the short term, the lockdown was able to slow down the spread of the virus and after the first 30 days post lockdown period, we already started seeing a drop of new daily covid cases in the province of Quebec.
 
   ![rdd-1](https://github.com/felipegomez30/covid-regression-project/assets/130583163/d3fab758-1ebe-4397-91bd-d654f665fac5)
 
-- 31/8/2020 School Reopening: The reopening of schools led to a notable increase in COVID-19 cases, suggesting that it contributed to the rise in infections during that period.
+- 31/8/2020 School Reopening: Using RDD to model the data shows a significant correlation between the reopening of schools during and a subsequent sharp increase in cases. This suggests that reopening schools may have contributed to the spread of the virus. However, other factors, such as community transmission rates, variants, vaccine coverage gaps, adherence to safety measures within schools, could also have played a role in the observed increase in cases..
 
   ![rdd-2](https://github.com/felipegomez30/covid-regression-project/assets/130583163/0896d02f-ea7f-42da-b7c5-8a1c902fac83)
 
-- 25/12/2020 Lockdown: The second lockdown implemented on Christmas Day had a significant effect in curbing the spread of COVID-19, leading to a decline in cases, hospitalizations, and deaths.
+- 25/12/2020 Lockdown: The findings suggest that the Christmas lockdown implemented by the government of Quebec on December 25th, 2020, had a significant impact on the number of new cases.
 
 ![rdd-3](https://github.com/felipegomez30/covid-regression-project/assets/130583163/f8770b06-9ced-46ff-905b-5cfca37989d8)
 
