@@ -1,5 +1,10 @@
 # Effect of Key Events on COVID-19 new cases in Quebec: A Regression Analysis
 
+### Collaborators:
+
+- [Mark Owen](https://github.com/take1step)
+- [Ivan Stefanov](https://github.com/vanko2011)
+
 ### Introduction
 
 This project aims to estimate the effect of three significant events related to COVID-19 in Quebec, Canada, using regression analysis. The events considered are:
@@ -42,4 +47,4 @@ We obtained statistically significant results for all three events, indicating t
 
 The regression analysis using RDD provided valuable insights into the impact of key events on COVID-19 new cases in Quebec. Understanding the effects of such events can help policymakers and health authorities make informed decisions and implement targeted measures to control the pandemic effectively.
 
-Note: We have included the Jupyter Notebook containing the code, detailed analysis, and visualization of the results in this repository. Feel free to explore the notebook to delve deeper into our findings.
+Note: We have included the [Jupyter Notebook](https://github.com/felipegomez30/covid-regression-project/blob/main/notebook/COVID-regression-model.ipynb) containing the code, detailed analysis, and visualization of the results in this repository. Feel free to explore the notebook to delve deeper into our findings.
