@@ -12,7 +12,7 @@ For each event, we collected data on COVID-19 measures, such as cases, hospitali
 
 ### Data Collection and Analysis
 
-We used RDD (Regression Discontinuity Design) to analyze the effect of the events on COVID-19 new cases. RDD is a quasi-experimental design that allows us to estimate causal effects by leveraging the sharp changes (discontinuities) that occur at the event dates. We collected relevant COVID-19 data from "DONNÉES QUÉBEC." [COVID-19: Portrait quotidien des cas confirmés, Gouvernement du Québec, 2023] (www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes).
+We used RDD (Regression Discontinuity Design) to analyze the effect of the events on COVID-19 new cases. RDD is a quasi-experimental design that allows us to estimate causal effects by leveraging the sharp changes (discontinuities) that occur at the event dates. We collected relevant COVID-19 data from "DONNÉES QUÉBEC." [COVID-19: Portrait quotidien des cas confirmés, Gouvernement du Québec, 2023](www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes).
 
 ### Regression Design
 
