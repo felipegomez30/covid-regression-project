@@ -16,7 +16,7 @@ We used RDD (Regression Discontinuity Design) to analyze the effect of the event
 
 ### Regression Design
 
-For each event, we designed a regression model to estimate the effect on COVID-19 measures. Some of the considerations in our regression design were:
+For each event, we designed a regression model to estimate the effect on COVID-19 new cases. Some of the considerations in our regression design were:
 
 - Cutoff Parameter: The event date served as the cutoff point, and we analyzed the effect of the measure taken both before and after the event.
 - Time Frame: We carefully selected the amount of time included on both sides of the cutoff to capture the impact of the events effectively. The time frame selected was 60 days. Longer time frames were considered when it was relevant for the analysis.
