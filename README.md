@@ -24,7 +24,7 @@ For each event, we designed a regression model to estimate the effect on COVID-1
 
 ### Findings
 
-We obtained statistically significant results for all three events, indicating that they had a discernible impact on COVID-19 measures in Quebec. Our analysis revealed the following key findings:
+We obtained statistically significant results for all three events, indicating that they had a discernible impact on COVID-19 new cases in Quebec. Our analysis revealed the following key findings:
 
 - 20/3/2020 Lockdown: The graphs and results suggest that the first lockdown implemented by the government of Quebec on 20/3/2020 had a minimal impact on the number of new cases. It seems that on the short term, the lockdown was able to slow down the spread of the virus and after the first 30 days post lockdown period, we already started seeing a drop of new daily covid cases in the province of Quebec.
 
